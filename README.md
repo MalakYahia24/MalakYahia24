@@ -1,4 +1,20 @@
 ## Hi there 👋
+🎓 I'm a Computer Systems Engineering student  
+💻 Frontend Developer in progress — currently learning **React**,and **Redux Toolkit** 
+🛠️ Future backend dev — planning to explore **Node.js** and full-stack development  
+🌱 Always learning, always building!
+
+---
+
+## 🔧 Tech Stack:
+- **Frontend:** React, Redux Toolkit, JavaScript, HTML, CSS 
+- **Tools:** Git, GitHub, Vercel, VS Code
+
+---
+
+## 📫 How to reach me:
+- 💼 [LinkedIn]https://www.linkedin.com/in/malak-yahia  
+- 💌 Email: malakyhia902@gmail.com 
 
 <!--
 **MalakYahia24/MalakYahia24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
