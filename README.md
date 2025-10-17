@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">🌱 Currently learning C#, .NET.</p>
+<p align="left">🌱 Currently learning C#, ASP.NET.</p>
 
 ###
 
