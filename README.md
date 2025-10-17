@@ -1,9 +1,8 @@
 ## Hi there 👋
-🎓 I'm a Computer Systems Engineering student  
-💻 Frontend Developer in progress — currently learning **React**,and **Redux Toolkit** 
-🛠️ Future backend dev — planning to explore **Node.js** and full-stack development  
-🌱 Always learning, always building!
-
+🎓 Computer Systems Engineering Student
+💻 Passionate Frontend Developer — completed React & Redux Toolkit
+⚙️ Currently diving into Backend Development with C# and .NET
+🌸 Aspiring Full-Stack Developer who loves creating elegant and functional web experiences
 ---
 
 ## 🔧 Tech Stack:
